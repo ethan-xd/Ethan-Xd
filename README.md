@@ -1,5 +1,3 @@
-typescript and php stuf
-
 ![25a4f6e6dadce86400c07d89130cd175](https://user-images.githubusercontent.com/24442053/126724498-410e9fef-603b-4f06-b29f-0303c0996611.jpg)
 ![57884_170x100](https://user-images.githubusercontent.com/24442053/126724499-0fa18e93-abe1-4094-9b60-fab96b56c6fc.gif)
 ![anim_4d5c1609-fa88-efb4-fd2a-ac888fe57262](https://user-images.githubusercontent.com/24442053/126724501-b1d054f5-53b3-4521-af87-d11d5745b580.gif)
